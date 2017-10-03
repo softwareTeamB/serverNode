@@ -1,0 +1,10 @@
+{
+    "name": "serverNode",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "michel",
+    "contributors": [],
+    "dependencies": {}, "scripts":{
+"start":"node server.js"}
+
+}

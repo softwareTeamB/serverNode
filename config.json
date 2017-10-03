@@ -1,0 +1,10 @@
+{	
+	"mysql": {
+		"username":"ajax",
+		"password": "rootAjax!",
+		"dbName": "serverproject",
+		"localhost": "127.0.0.1"
+	},
+
+	"poortNummer": "7090"
+}
